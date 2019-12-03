@@ -7,6 +7,8 @@ Contact Yiyang at akirastarlord@gmail.com if you have any questions.</h4>
 
 <h3>Project Overview</h3>
 
+Colors are an extremely important part of our lives — we see them every day, use them in every of our creations, and rely on them in describing and explaining pretty much any of the objects & things around us. However, colors are not just red, blue, green…… There are many other colors, each with a name you probably have never heard of, that are born from interesting ancient histories and potentially lie beyond your original understanding of them. Our product (app), therefore, takes the ambition of changing your perceptions on colors by sharing with you the beautiful stories behind these traditional colors, and helping you create more values out of them.
+
 <h3>A quick demo of the App</h3>
 
 Main scene, where a collection of over 800 traditional Japanese, Chinese and European colors is presented (still updating).
