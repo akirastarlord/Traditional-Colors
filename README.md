@@ -18,6 +18,6 @@ Detail scene, where users get to know the history of a traditional color, as wel
 
 </br>
 
-Search functionality
+Search functionality. Below is an example of searching for colors with the character "tea" in Japanese.
 
 <img src="demo%20images/app%20demo%20search%20function.jpg?raw=true" width="400">
