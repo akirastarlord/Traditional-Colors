@@ -10,15 +10,15 @@ Contact Yiyang at akirastarlord@gmail.com if you have any questions.</h4>
 <h3>A quick demo of the App</h3>
 
 Main scene
-</br>
+</br></br>
 <img src="demo%20images/app%20demo%20main%20view.jpg?raw=true" width="400">
 </br>
 
 Detail scene, where users get to know the history of a traditional color, as well as its RGB, CMYK, and Hex values.
-</br>
+</br></br>
 <img src="demo%20images/app%20demo%20detail%20view.jpg?raw=true" width="400">
 </br>
 
 Search functionality. Below is an example of searching for colors with the character "tea" in Japanese.
-</br>
+</br></br>
 <img src="demo%20images/app%20demo%20search%20function.jpg?raw=true" width="400">
