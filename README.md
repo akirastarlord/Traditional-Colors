@@ -1,4 +1,4 @@
-# Traditional-Colors
+# Traditional Colors
 
 Project Traditional Colors
 
