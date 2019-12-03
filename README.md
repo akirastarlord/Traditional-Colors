@@ -7,4 +7,4 @@ Project Traditional Colors
   
 
 ![Image of app main scene]
-(https://github.com/akirastarlord/Traditional-Colors/blob/master/demo%20images/app%20demo%20main%20view.jpg?raw=false)
+(https://github.com/akirastarlord/Traditional-Colors/raw/master/demo%20images/app%20demo%20main%20view.jpg?raw=false)
