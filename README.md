@@ -12,4 +12,4 @@ Main scene
 
 
 Detail scene
-![app detail scene](/blob/master/demo%20images/app%20demo%20detail%20view.jpg?raw=true)
+![app detail scene](demo%20images/app%20demo%20detail%20view.jpg?raw=true)
