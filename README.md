@@ -7,9 +7,11 @@ Project Traditional Colors
   
 
 Main scene
-![app main scene](https://github.com/akirastarlord/Traditional-Colors/blob/master/demo%20images/app%20demo%20main%20view.jpg?raw=true)
+
+![app main scene](demo%20images/app%20demo%20main%20view.jpg?raw=true)
 
 
 
-Detail scene
+Detail scene, where users get to know the history of a traditional color
+
 ![app detail scene](demo%20images/app%20demo%20detail%20view.jpg?raw=true)
