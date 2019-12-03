@@ -1,9 +1,9 @@
 # Project Traditional Colors
 
 <h3>Notice</h3>
-<h5>Since this project is under development and not released yet, you need XCode to run the app on iOS device simulator.</br></br>
-For demo purpose, some screenshots are included describing the functionalities.</br></br>
-Contact Yiyang Zhang at akirastarlord@gmail.com if you have any questions.</h4>
+<h5>Since this project is still under development and not released yet, you need XCode to run the App on an iOS device simulator.</br></br>
+For demo purpose, some screenshots presenting the functionalities are included below.</br></br>
+Contact Yiyang at akirastarlord@gmail.com if you have any questions.</h4>
 
 <h3>Project Overview</h3>
 
