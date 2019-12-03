@@ -1,12 +1,13 @@
 # Project Traditional Colors
 
-
+<h3>Notice</h3>
 <h4>Since this project is under development and not released yet, you need XCode to run the app on iOS device simulator.</br>
 For demo purpose, some screenshots are included describing the functionalities.</br>
 Contact Yiyang Zhang at akirastarlord@gmail.com if you have any questions.</h4>
-  
-</br>
 
+<h3>Project Overview</h3>
+
+<h3>A quick demo of the App</h3>
 Main scene
 
 <img src="demo%20images/app%20demo%20main%20view.jpg?raw=true" width="400">
