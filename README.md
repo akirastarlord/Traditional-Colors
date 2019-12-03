@@ -15,3 +15,8 @@ Main scene
 Detail scene, where users get to know the history of a traditional color
 
 ![app detail scene](demo%20images/app%20demo%20detail%20view.jpg?raw=true)
+
+
+Search functionality
+
+<img src="demo%20images/app%20demo%20search%20function.jpg?raw=true" width=300 /img> 
