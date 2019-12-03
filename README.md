@@ -9,7 +9,7 @@ Contact Yiyang at akirastarlord@gmail.com if you have any questions.</h4>
 
 <h3>A quick demo of the App</h3>
 
-Main scene
+Main scene, where a collection of over 800 traditional Japanese, Chinese and European colors is presented (still updating).
 </br></br>
 <img src="demo%20images/app%20demo%20main%20view.jpg?raw=true" width="400">
 </br>
