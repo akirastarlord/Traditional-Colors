@@ -8,15 +8,15 @@ Project Traditional Colors
 
 Main scene
 
-![app main scene](demo%20images/app%20demo%20main%20view.jpg?raw=true)
+<img src="demo%20images/app%20demo%20main%20view.jpg?raw=true" width="400">
 
 
 
 Detail scene, where users get to know the history of a traditional color
 
-![app detail scene](demo%20images/app%20demo%20detail%20view.jpg?raw=true)
+<img src="demo%20images/app%20demo%20detail%20view.jpg?raw=true" width="400">
 
 
 Search functionality
 
-<img src="demo%20images/app%20demo%20search%20function.jpg?raw=true" width="10">
+<img src="demo%20images/app%20demo%20search%20function.jpg?raw=true" width="400">
