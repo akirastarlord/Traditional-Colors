@@ -19,4 +19,4 @@ Detail scene, where users get to know the history of a traditional color
 
 Search functionality
 
-<img src="demo%20images/app%20demo%20search%20function.jpg?raw=true" width=100 align=center></img> 
+<img src="demo%20images/app%20demo%20search%20function.jpg?raw=true" width=300 align=right></img> 
