@@ -14,7 +14,7 @@ Main scene, where a collection of over 800 traditional Japanese, Chinese and Eur
 <img src="demo%20images/app%20demo%20main%20view.jpg?raw=true" width="400">
 </br>
 
-Detail scene, where users get to know the history of a traditional color, as well as its RGB, CMYK, and Hex values.
+Detail scene, where users get to know the history of a particular color, as well as its RGB, CMYK, and Hex values.
 </br></br>
 <img src="demo%20images/app%20demo%20detail%20view.jpg?raw=true" width="400">
 </br>
