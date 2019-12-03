@@ -6,5 +6,4 @@ Project Traditional Colors
   For demo purpose, some screenshots are included describing the functionalities.
   
 
-![Image of app main scene]
-(https://github.com/akirastarlord/Traditional-Colors/raw/master/demo%20images/app%20demo%20main%20view.jpg?raw=true)
+![Image of app main scene](https://github.com/akirastarlord/Traditional-Colors/raw/master/demo%20images/app%20demo%20main%20view.jpg?raw=true)
