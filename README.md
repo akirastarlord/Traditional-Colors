@@ -1,5 +1,18 @@
 # Project Traditional Colors
 
+<h3>README for Dominic</h3>
+
+1. The GitHub link has changed from the one in my milestone 1 and 2 submissions, as I have moved my project to this new repo. So please refer to the above link for the most up-to-date work.
+
+2. You may need to sign in (through Google) to get the most out of signed-in user experience.
+
+3. Functionalities I have implemented and included in the submission so far should completely work without any bugs or unexpected behaviors. If you run into unexpected behaviors or am confused about code structures, data structures, or models, please let me know.
+
+4. I'll try to get a video recorded by Dec. 6th noon, as you said it is appreciated for projects which included Firebase. However, I may not be able to complete it, because I still have another project as well as another assignment due on the same day. I hope my grade won't be affected if I don't end up not being able to do recording.
+
+Thank you for your interest for my project, and if you feel the demo I did today in class was not comprehensive enough for you to get to know the project and/or for grading, please also let me know.
+
+
 <h3>README is still under contruction</h3>
 
 <h3>Notice</h3>
