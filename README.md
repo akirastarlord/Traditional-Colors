@@ -6,7 +6,7 @@
 
 2. You may need to sign in (through Google) to get the most out of signed-in user experience.
 
-3. The functionalities I have implemented and included in the submission so far should completely work without any bugs or unexpected behaviors. If you run into unexpected behaviors or am confused about code structures, data structures, or models, please let me know.
+3. The functionalities I have implemented and included in the submission so far <b>should completely work without any bugs or unexpected behaviors</b>. If you run into unexpected behaviors or am confused about code structures, data structures, or models, please let me know.
 
 4. I'll try to get a video recorded by Dec. 6th noon, as you said it is appreciated for projects which included Firebase. However, I may not be able to complete it, because I still have another project as well as another assignment due on the same day. <b>I hope my grade won't be affected if I end up not being able to do the recording</b>.
 
