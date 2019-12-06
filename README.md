@@ -1,5 +1,7 @@
 # Project Traditional Colors
 
+<h3>README is still under contruction</h3>
+
 <h3>Notice</h3>
 <h5>Since this project is still under development and not released yet, you need XCode to run the App on an iOS device simulator.</br></br>
 For demo purpose, some screenshots presenting the functionalities are included below.</br></br>
